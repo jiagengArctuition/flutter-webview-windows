@@ -10,8 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  webview_windows:
-    path: ../
+  webview_windows: 0.3.0
   window_manager: ^0.2.7
 
 dev_dependencies:
